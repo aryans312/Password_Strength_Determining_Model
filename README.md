@@ -81,6 +81,7 @@ This model can be used to enhance security practices by providing a method for e
 
 **Future Work:**
 Future enhancements may include:
+
 **Incorporating More Features:** Adding additional features such as password entropy or patterns could improve model accuracy.
 
 **Expanding the Dataset:** Utilizing a more diverse dataset with a wider range of passwords could enhance the model’s generalizability.
