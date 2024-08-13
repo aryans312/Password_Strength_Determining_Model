@@ -2,6 +2,7 @@
 The Password Strength Prediction Model leverages Natural Language Processing (NLP) and machine learning to evaluate and predict the strength of passwords. This project analyzes password characteristics—such as length and character composition—to classify passwords into different strength categories: weak, medium, and strong.
 
 **Features-**
+
 **1) Semantic Analysis:**
 The first step involves analyzing the textual composition of passwords to identify their characteristics:
 a) Numeric: Passwords composed entirely of numeric characters.
@@ -20,7 +21,7 @@ Frequency of Special Characters: Proportion of special characters in the passwor
 **3) Data Visualization:**
 Using boxplots and distribution plots to analyze and visualize feature distributions across different password strength categories.
 
-**6) Machine Learning:**
+**4) Machine Learning:**
 TF-IDF Vectorization: Converts passwords into numerical data suitable for machine learning algorithms. The TF-IDF vectorizer transforms textual data into feature vectors that reflect the importance of words in the context of the entire dataset.
 
 **Model Training:**
